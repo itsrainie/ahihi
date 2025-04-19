@@ -1,0 +1,25 @@
+# Logs
+firebase-debug.log
+*.log
+
+# Binaries/Executables
+playit-linux-amd64
+
+# IDE / Tooling
+.vscode/
+.idx/
+
+# Dependency directories
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+.next/
+out/
+build/
+
+# Misc
+.DS_Store
+*.zip
+*.tgz
