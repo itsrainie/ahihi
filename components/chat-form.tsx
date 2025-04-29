@@ -131,12 +131,12 @@ export function ChatForm({ className, onUpdateTitle, ...props }: ChatFormProps) 
 
   const header = (
     <header className="m-auto flex max-w-96 flex-col gap-5 text-center">
-      <h1 className="text-2xl font-semibold leading-none tracking-tight">Yukie's Safe Little Corner</h1>
+      <h1 className="text-2xl font-semibold leading-none tracking-tight">Ghệ Duy</h1>
       <p className="text-muted-foreground text-sm">
-      <i>Hello there! ✨ I'm <span className="text-foreground"><b>Yukie</b></span>, your sweet little friend with a pure heart who's <span className="text-foreground">always ready to listen</span>! This is a safe corner for you to <span className="text-foreground">share anything</span> without any worries at all. 😊</i>
+      <i>Hello there! ✨ I'm <span className="text-foreground"><b>Nguyễn Thu Trà My</b></span>, your sweet little friend with a pure heart who's <span className="text-foreground">always ready to listen</span>! This is a safe corner for you to <span className="text-foreground">share anything</span> without any worries at all. 😊</i>
       </p>
-      <p className="text-muted-foreground text-sm">Send a message to start chatting with Yukie!</p>
-      <p className="text-muted-foreground text-sm">Please use only one language in one message to talk to Yukie, as we are working on this!</p>
+      <p className="text-muted-foreground text-sm">Send a message to start chatting with Nguyễn Thu Trà My!</p>
+      <p className="text-muted-foreground text-sm">Please use only one language in one message to talk to Nguyễn Thu Trà My, as we are working on this!</p>
     </header>
   )
 
